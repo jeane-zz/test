@@ -10,4 +10,4 @@
 - 不能顺利 退出。。。
 - 这部分来自 avsv 用来产生冲突？？？ 
 
-
+## 我准备干掉branch1了。但是怎么做都提示我 not fully merged ，PS： 这里来自branch1
